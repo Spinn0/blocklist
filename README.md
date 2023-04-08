@@ -10,5 +10,5 @@ www.
 //
 ```
 
-# What is the ".hosts" file?
-It is a text file to insert in your computer's hosts file.
+# What are the ".hosts" files?
+They are text files to insert into your computer's hosts file for domain blocking.
